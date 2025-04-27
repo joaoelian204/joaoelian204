@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="300">
 </p>
 
-🌱 **Actualmente, estoy estudiando la carrera de Ingeniería de Software** en la Universidad Laica Eloy Alfaro de Manabí. Siento una gran pasión por la tecnología y la programación, y disfruto aprender y trabajar en proyectos que me desafíen a mejorar continuamente, ya sea en desarrollo web, bases de datos o software en general.
+🌱 **Actualmente, estoy estudiando la carrera de Ingeniería de Software** en la Universidad Laica Eloy Alfaro de Manabí, Manta-Ecuador. Siento una gran pasión por la tecnología y la programación, y disfruto aprender y trabajar en proyectos que me desafíen a mejorar continuamente, ya sea en desarrollo web, bases de datos o software en general.
 
 Soy un entusiasta de la programación, siempre en busca de nuevas formas de resolver problemas a través del código. Poseo conocimientos en lenguajes y herramientas como Python, JavaScript, y bases de datos como MySQL y PostgreSQL, entre otros. Mi objetivo es seguir perfeccionando mis habilidades y mantenerme actualizado con las últimas tendencias tecnológicas.
 <hr>
